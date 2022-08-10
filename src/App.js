@@ -11,7 +11,7 @@ import React from 'react';
 //   return (
 //     <div className="">
 //       <h1 style={{textAlign:'center'}}>Robofriends</h1>
-      
+
 //       <SearchBox/>
 //       <Cardlist clients ={users}/>
 //     </div>
@@ -19,7 +19,7 @@ import React from 'react';
 // }
 
 
-//To convert to Class Component 
+//To convert to Class Component
 
 class App extends React.Component{
   constructor(){
@@ -39,8 +39,8 @@ class App extends React.Component{
 
     return (
       <div className="">
-        <h1 style={{textAlign:'center'}}>Robofriends</h1>
-        
+        <h1 style={{textAlign:'center'}}>LAZMEH ROBO-FRIENDS</h1>
+
         <SearchBox updateSearchInput={this.updateSearchInput}/>
         <Cardlist clients ={filteredRobots}/>
       </div>

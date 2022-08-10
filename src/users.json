@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "name": "Oluniyi Israel",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
+      "name": "Lazmeh",
+      "username": "Laz",
+      "email": "lazmeh@gmail",
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -24,9 +24,9 @@
     },
     {
       "id": 2,
-      "name": "Esther Oluniyi",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
+      "name": "Pamshank Laz",
+      "username": "Pamshank",
+      "email": "kurmi@gmail",
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -47,9 +47,9 @@
     },
     {
       "id": 3,
-      "name": "Ogunniyi Caroline",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
+      "name": "Benue State",
+      "username": "Markurdi",
+      "email": "Markurdi@yesenia.net",
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -70,9 +70,9 @@
     },
     {
       "id": 4,
-      "name": "Aderinola Oluniyi",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
+      "name": "Bauchi State",
+      "username": "Bauchi",
+      "email": "bauchi@gmail.com",
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -93,9 +93,9 @@
     },
     {
       "id": 5,
-      "name": "Lucio Hettinger",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
+      "name": "Anambra State",
+      "username": "Anambra",
+      "email": "anambra@gmail.com",
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
@@ -116,9 +116,9 @@
     },
     {
       "id": 6,
-      "name": "Karley Dach",
-      "username": "Leopoldo_Corkery",
-      "email": "Karley_Dach@jasper.info",
+      "name": "Kaduna State",
+      "username": "Kaduna",
+      "email": "kaduna@gmail.com",
       "address": {
         "street": "Norberto Crossing",
         "suite": "Apt. 950",
@@ -139,9 +139,9 @@
     },
     {
       "id": 7,
-      "name": "Telly Hoeger",
-      "username": "Elwyn.Skiles",
-      "email": "Telly.Hoeger@billy.biz",
+      "name": "Plateau State",
+      "username": "Plateau",
+      "email": "plateau@gmail.com",
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -162,9 +162,9 @@
     },
     {
       "id": 8,
-      "name": "Ellsworth Summit",
-      "username": "Maxime_Nienow",
-      "email": "Sherwood@rosamond.me",
+      "name": "Jigawa State",
+      "username": "Jigawa",
+      "email": "jigawa@gmail.com",
       "address": {
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
@@ -185,9 +185,9 @@
     },
     {
       "id": 9,
-      "name": "Mason Greenwood",
-      "username": "Delphine",
-      "email": "Chaim_McDermott@dana.io",
+      "name": "Kano State",
+      "username": "Kano",
+      "email": "kano@gmail.com",
       "address": {
         "street": "Dayna Park",
         "suite": "Suite 449",
@@ -208,9 +208,9 @@
     },
     {
       "id": 10,
-      "name": "Rey Padberg",
-      "username": "Moriah.Stanton",
-      "email": "Rey.Padberg@karina.biz",
+      "name": "Kogi State",
+      "username": "Kogi",
+      "email": "kogi@gmail.com",
       "address": {
         "street": "Kattie Turnpike",
         "suite": "Suite 198",

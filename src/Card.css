@@ -1,11 +1,11 @@
 .card-container{
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(126, 231, 27);
     max-width: 15rem;
     text-align: center;
     margin: 1rem;
     padding: 1rem;
-    border-radius: 20px;
+    border-radius: 10px;
     transform: translateZ(0);
     transition: transform .25s ease-out;
 }
